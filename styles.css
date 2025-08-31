@@ -1,0 +1,35 @@
+body{
+    background-color: lightslategrey;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 20px;
+    text-align: center;
+    background-color:aliceblue;
+    display:block;
+    padding: 16px;
+}
+
+ul {
+    list-style:none;
+    padding: 8px;
+    margin:8px;
+
+}
+
+li {
+    margin: 25px;
+}
+
+li a {
+    display:block;
+    background-color:white;
+    color:black;
+    font-size:25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 30px 8px;
+    margin: 0px 450px;
+
+}
